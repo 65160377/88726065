@@ -1,0 +1,13 @@
+image {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
+body {
+    font-family: arial;
+    background-color: rgb(185, 179, 175);
+  }
+  
+h1 {
+    color: rgb(255, 255, 255);
+  }
