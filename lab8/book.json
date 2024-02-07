@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "name": "ATOMIC HABITS เพราะชีวิตดีได้กว่าที่เป็น",
+        "price": "256.50",
+        "author1": "JAMES CLEAR",
+        "author2": "",
+        "author3": ""
+      },
+      {
+        "id": 2,
+        "name": "จิตวิทยาสายดาร์ก",
+        "price": "225.25",
+        "author1": "Dr.Hiro",
+        "author2": "",
+        "author3": ""
+      },
+      {
+        "id": 3,
+        "name": "จิตวิทยาอ่านใจคนขั้นสุด MINDREADER",
+        "price": "243",
+        "author1": "David J.Lieberman",
+        "author2": "",
+        "author3": ""
+      }
+    ]
+  }
